@@ -42,5 +42,5 @@ pruebas-unitarias-js/
 ```
 
 ## 🎯 Resultados de las Pruebas
-![Tests Pasando](./test_jest.png)
+![Tests Pasando](./images/test_jest.png)
 
