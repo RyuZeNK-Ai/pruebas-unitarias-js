@@ -15,7 +15,7 @@ Implementación completa de pruebas unitarias para los módulos Calculator y Use
 - **2 pruebas unitarias** para la función `findByEmail()`
 - **2 pruebas unitarias** para la función `findById()`
 
-### ✅ Tarea 3: Desarrollo Orientado por Pruebas (TDD)
+### ✅ Tarea 3: Desarrollo Orientado por Pruebas
 - **Prueba unitaria** para división por cero
 - **Implementación corregida** de `divide()` con manejo de errores
 
